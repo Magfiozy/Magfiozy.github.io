@@ -8,6 +8,10 @@ body {
   color: rgb(44, 44, 44);
 }
 
+h1{
+  color: rgb(225, 225, 225);
+}
+
 #card {
   position: absolute;
   top: 100px;
